@@ -9,7 +9,7 @@ Me apasiona crear soluciones web y aplicaciones optimizadas, combinando lógica 
 ## 🛠️ Stack Tecnológico
 
 **Lenguajes y Entornos:**
-- JavaScript (ES6+), HTML5, CSS3
+- Python, JavaScript (ES6+), HTML5, CSS3
 
 **Frontend & UI:**
 - React.js, Tailwind CSS
